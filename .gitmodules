@@ -1,0 +1,3 @@
+[submodule "jam-splitter"]
+	path = jam-splitter
+	url = git@github.com:othmar52/jam-splitter.git
