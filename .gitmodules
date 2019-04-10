@@ -1,3 +1,9 @@
 [submodule "jam-splitter"]
 	path = jam-splitter
 	url = git@github.com:othmar52/jam-splitter.git
+[submodule "jam-webplayer1"]
+	path = jam-webplayer1
+	url = git@github.com:othmar52/jam-webplayer1.git
+[submodule "jam-splitter-gui"]
+	path = jam-splitter-gui
+	url = git@github.com:othmar52/jam-splitter-gui.git
